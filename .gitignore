@@ -1,0 +1,1 @@
+# IDEA Files.idea*.iml*.ipr# Eclude svn directoories.svn# Eclude target directories*target# Eclude log file*.log*.java.orig*.orig
